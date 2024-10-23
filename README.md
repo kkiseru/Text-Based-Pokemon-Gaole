@@ -1,7 +1,7 @@
 # Text-Based-Pokemon-Gaole 
 This project is a tribute to the classic Pokémon Gaole game,which is an arcade game machine that debuted in Japanese arcades in 2007.  
 <br> The game is simplified as a text-based game that still features a the unique gameplay style that Pokémon Gaole has.
-![GameDemo](Images/GaoleDemo.gif)
+![GameDemo](/Images/GaoleDemo.gif)
 The objective is to capture Pokémon, engage in battles, and beat the highest score through strategic and time decision-making.
 
 
@@ -15,7 +15,7 @@ Make a personal account to store your pokemon and highscore
 **Gauge Meter Game Mechanic**
 * **Summon Pokémon:** Players must encircle Pokémon on the screen to fill a gauge within a certain time limit to summon them.
 * **Attack Gauge:** Players must encircle Pokémon to fill a gauge and race against defending Pokémon. The player who fills their gauge first makes the first attack.
-* ![GameDemo](Images/AttackGauge.png)
+* ![GameDemo](/Images/AttackGauge.png)
 
 
 **Diverse Pokémon Selection:**
@@ -23,7 +23,7 @@ Make a personal account to store your pokemon and highscore
   
 **Battles Mechanic:**
 * Engage in turn-based battles that require strategy and planning while aiming to beat high scores.
-* ![Attackpng](Images/CounterAttackDemo.png)
+* ![Attackpng](/Images/CounterAttackDemo.png)
 
 
 **Pokéball Game Mechanic**
